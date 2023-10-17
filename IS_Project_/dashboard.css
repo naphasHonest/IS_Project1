@@ -1,0 +1,14 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: Arial;
+    box-sizing: border-box;
+    }
+    .main{
+    height: 100%;
+    width: 100%;
+    background-image: url(images/County_government\ _offices.jpg);
+    background-position: center;
+    background-size: cover;
+    position:absolute;
+    }

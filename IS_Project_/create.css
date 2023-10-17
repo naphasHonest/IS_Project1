@@ -1,0 +1,24 @@
+.main_box{
+    height: 100%;
+    width: 100%;
+    background-image: url(images/KICC.jpg);
+    background-position: center;
+    background-size: cover;
+    position:absolute;
+    }
+    *{
+        margin:0px;
+        padding:0px;
+        font-family: Arial;
+        box-sizing: border-box;
+        }
+        .hold-box{
+            width: 380px;
+            height: 380px;
+            position:relative;
+            margin: 6% auto;
+            background: white;
+            padding: 5px;
+            overflow: hidden;
+        
+        }
